@@ -1,0 +1,43 @@
+# =========================================
+# Java / Maven
+# =========================================
+.project
+.settings
+.classpath
+target/
+pom.xml.tag
+pom.xml.releaseBackup
+pom.xml.versionsBackup
+pom.xml.next
+release.properties
+dependency-reduced-pom.xml
+buildNumber.properties
+.mvn/
+*.log
+*.jar
+*.war
+
+# =========================================
+# Node.js / React
+# =========================================
+node_modules/
+dist/
+build/
+.npm
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+.pnp/
+.pnp.js
+
+# =========================================
+# Archivos del Entorno y Sistema Operativo
+# =========================================
+.env
+.env.local
+.env.development.local
+.env.test.local
+.env.production.local
+
+.DS_Store
+Thumbs.db
